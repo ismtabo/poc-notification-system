@@ -101,4 +101,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Ismael Taboada - [ismtabo](https://github.com/ismtabo)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/ismtabo/poc-notification-system](https://github.com/ismtabo/poc-notification-system)
